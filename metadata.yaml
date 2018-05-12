@@ -1,0 +1,37 @@
+_repo: Makers-of-Modern-Medicine_35477
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, J. J. (James Joseph)
+    - Walsh, James Joseph
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35477'
+  lccn: '07007512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Biography'
+- !lcc 'R'
+tableOfContents: 'The making of medicine -- Morgagni, father of pathology -- Auenbrugger,
+  inventor of percussion -- Jenner, discoverer of vaccination -- Galvani, founder
+  of animal electricity -- Laennec, Father of physical diagnosis -- The Irish school
+  of medicine: Graves, Stokes, Corrigan -- Müller, father of German medicine -- Schwann,
+  founder of the cell doctrine -- Claude Bernard, discoverer in physiology -- Pasteur,
+  father of preventive medicine -- O''Dwyer, inventor of intubation.'
+title: Makers of Modern Medicine
+url: http://www.gutenberg.org/ebooks/35477
