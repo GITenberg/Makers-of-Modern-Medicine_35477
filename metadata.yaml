@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Medicine -- Biography'
 - !lcc 'R'
+- GITenberg
 tableOfContents: 'The making of medicine -- Morgagni, father of pathology -- Auenbrugger,
   inventor of percussion -- Jenner, discoverer of vaccination -- Galvani, founder
   of animal electricity -- Laennec, Father of physical diagnosis -- The Irish school
